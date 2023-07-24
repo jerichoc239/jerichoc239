@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jerichoc239
 - 👀 I’m interested in neural network, software, web, and embedded systems development
-- 🌱 I’m currently learning Python, C++, Java, SQL, TCP/IP, HTML5, CSS, 
 - 💞️ I’m looking to collaborate on development projects and music endevours.
 - 📫 How to reach me www.jerichochaikin.com, jerchaikin@gmail.com
 
